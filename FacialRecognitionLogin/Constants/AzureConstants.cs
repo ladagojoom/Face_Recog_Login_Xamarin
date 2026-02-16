@@ -1,6 +1,7 @@
 //Set constant AzureApiKey 
 namespace FacialRecognitionLogin
 {
+    //Create API Key Here: https://aka.ms/Axnics
     public static class AzureConstants
     {
 #Error Missing API Key Here. Create API Key Here: https://aka.ms/Axnics
