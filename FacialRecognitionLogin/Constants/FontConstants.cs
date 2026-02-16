@@ -1,4 +1,5 @@
-﻿using System;
+//Set static font name depends on platform.
+using System;
 using Xamarin.Forms;
 
 namespace FacialRecognitionLogin
