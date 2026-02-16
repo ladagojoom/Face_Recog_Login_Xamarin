@@ -1,4 +1,5 @@
-﻿namespace FacialRecognitionLogin
+//Set constant AzureApiKey 
+namespace FacialRecognitionLogin
 {
     public static class AzureConstants
     {
