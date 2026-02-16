@@ -2,6 +2,7 @@
 
 namespace FacialRecognitionLogin
 {
+    //Log in failed events.
     public class LoginFailedEventArgs : EventArgs
     {
         public LoginFailedEventArgs(string errorMessage, bool shouldDisplaySignUpPrompt) =>
